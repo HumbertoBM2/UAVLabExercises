@@ -5,8 +5,8 @@
 ##### Code and practical exercises for UAV lab sessions using the DJI RoboMaster Tello Talent.
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-
+![opencv](https://img.shields.io/badge/opencv-3670A0?style=for-the-badge&logo=opencv)
+![robomaster](https://img.shields.io/badge/DJI_RoboMaster-3670A0?style=for-the-badge&logo=robomaster-sdk&logoColor=ffdd54)
 </div>
 
 
